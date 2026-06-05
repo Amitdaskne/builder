@@ -1,2 +1,9 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
 rootProject.name = 'builder'
 include ':app'
